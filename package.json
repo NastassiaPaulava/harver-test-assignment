@@ -1,0 +1,24 @@
+{
+  "name": "harver-test-assignment",
+  "version": "1.0.0",
+  "description": "Coding exercise for Harver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NastassiaPaulava/harver-test-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NastassiaPaulava/harver-test-assignment/issues"
+  },
+  "homepage": "https://github.com/NastassiaPaulava/harver-test-assignment#readme",
+  "dependencies": {
+    "@mapbox/blend": "^2.0.1",
+    "minimist": "^1.2.5",
+    "request": "^2.88.2"
+  }
+}
