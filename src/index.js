@@ -8,7 +8,6 @@ import { FILE_PATH } from './constants.js';
 
 const argv = minimist(process.argv.slice(2));
 
-console.log('argv', argv);
 const {
   greeting = 'Hello',
   who = 'You',
