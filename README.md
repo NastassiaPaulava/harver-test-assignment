@@ -26,3 +26,25 @@ Zip your code up and share it with us or, alternatively, put it in a public Git 
 Yours faithfully,
 Phil Mander
 VP Technology, Harver
+
+## Requirements
+
+- [Node (16.13.0)](https://nodejs.org/en/download/)
+
+## Setup
+
+```bash
+npm i
+```
+
+## Running
+
+```bash
+npm start
+```
+
+If you'd like to use your one parameters, please use start command as following:
+
+```bash
+npm start -- --greeting hi --who harver --color yellow --width 400 --height 500 --size 20
+```
