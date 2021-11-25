@@ -1,4 +1,4 @@
-## Harver test assignment
+## Test assignment
 
 ### Technical Exercise
 
